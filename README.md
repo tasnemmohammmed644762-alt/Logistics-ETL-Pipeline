@@ -1,10 +1,13 @@
 # 🚚 Automated Logistics ETL Pipeline: Transforming Chaos into Insights
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## 📌 Project Overview
+
+<p align="center">
+  <img src="picture.png" alt="Project Structure" width="600">
+</p>
 In the fast-paced world of global logistics, raw data is often messy and scattered. This project implements a **Scalable ETL (Extract, Transform, Load) Pipeline** designed to process large-scale supply chain datasets. Using **Python, Pandas, and NumPy**, the pipeline automates the journey from raw CSV logs to structured, analysis-ready tables.
 
 This project was developed as part of my training in the **Digital Egypt Pioneers Initiative (DEPI)**.
